@@ -24,3 +24,5 @@ Olá
 </div>
  
  <a href="https://www.linkedin.com/in/flavia-oliveira-dev/" target="_blank"><img src="./MeuLinkedIn.gif" alt="Meu LinkedIn"></a>
+
+![Snake animation](https://github.com/FlaviaColiv/FlaviaColiv/blob/output/github-contribution-grid-snake.svg)
