@@ -1,6 +1,8 @@
 Olá
 
-[<img src="./Meu-LinkeIn.gif" alt="Primeira LinkedIn">] (https://www.linkedin.com/in/flavia-oliveira-dev/)
+ 
+<a href="https://www.linkedin.com/in/flavia-oliveira-dev/" target="_blank"><img src="./Meu-LinkeIn.gif" alt="Primeira LinkedIn"></a>
+
 
 ## Tecnologias Utilizadas
 
