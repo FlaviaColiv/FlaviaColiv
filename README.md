@@ -34,6 +34,7 @@
   ### Design
   <img align="center" alt="FIGMA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="CANVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+ 
 
 <br><br>
 </div>
