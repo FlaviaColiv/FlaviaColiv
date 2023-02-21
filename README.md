@@ -5,7 +5,8 @@
     
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlaviaColiv&show_icons=true&theme=transparent"/>
   <br><br>
-  <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent"/>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent" target="_blank"><img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent"/></a>
+    
             
 </div>
     
