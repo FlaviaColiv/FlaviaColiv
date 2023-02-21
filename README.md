@@ -1,14 +1,11 @@
 <h1 align="center">Olá 🐦, Sou Flávia Oliveira</h1> 
 
+
 ### Desenvolvedora Front End.
 #### Futura Técnica em Informática e Desenvolvedora Full Stack.
 
 <br>
-
- <a href="https://www.linkedin.com/in/flavia-oliveira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>          
-
-<br>
-
+<a href="https://www.linkedin.com/in/flavia-oliveira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## Linguagens e Ferramentas
 <div style="display: inline_block">
