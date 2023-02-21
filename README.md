@@ -1,4 +1,4 @@
-# Olá 🐦, Sou Flávia Oliveira
+<h1 align="center">Olá 🐦, Sou Flávia Oliveira</h1> 
 
 ### Desenvolvedora Front End.
 #### Futura Técnica em Informática e Desenvolvedora Full Stack.
@@ -62,5 +62,12 @@
 ![Snake animation](https://github.com/FlaviaColiv/FlaviaColiv/blob/output/github-contribution-grid-snake.svg)
 
 <br>
+
+</div>
+
+<div>
+ 
+ ![HitCount](https://hits.dwyl.com/FlaviaColiv/FlaviaColiv.svg?style=flat-square&show=unique)
+ ![Visitante](https://visitor-badge.laobi.icu/badge?page_id=FlaviaColiv.id)
 
 </div>
