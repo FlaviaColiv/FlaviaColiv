@@ -46,8 +46,8 @@
  # Status GitHub
 <div>
   <a href="https://github.com/FlaviaColiv">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FlaviaColiv&show_icons=true&theme=transparent"/></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent" target="_blank"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent"/></a>  
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=FlaviaColiv&show_icons=true&theme=transparent"/></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent" target="_blank"><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent"/></a>  
 </div>
 
 <br><br>
@@ -66,7 +66,6 @@
 
 <div>
  
- ![HitCount](https://hits.dwyl.com/FlaviaColiv/FlaviaColiv.svg?style=flat-square&show=unique)
  ![Visitante](https://visitor-badge.laobi.icu/badge?page_id=FlaviaColiv.id)
 
 </div>
