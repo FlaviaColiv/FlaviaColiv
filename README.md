@@ -1,8 +1,10 @@
 <h1 align="center">Olá 🐦, Sou Flávia Oliveira</h1> 
+<h3 align="center"> DEV FRONT-END</h3>
+<br>
 
 <a href="https://www.linkedin.com/in/flavia-oliveira-dev/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112573582/220430420-fe3f1d05-23ad-4d10-bf36-177dc044d6c4.jpeg"></a>
 <br><br>
-<h3> Desenvolvedora Front End. </h3>
+
 <h4> Futura Técnica em Informática e Desenvolvedora Full Stack. </h4>
 <br>
 <a href="https://www.linkedin.com/in/flavia-oliveira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -48,12 +50,9 @@
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent" target="_blank"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent"/></a>  
 </div>
 
-
 <br><br>
 
-
 ## Obrigada por visitar meu perfil do GitHub!
-<br>
 
 <div>
 <br>
