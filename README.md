@@ -1,5 +1,6 @@
 # Olá 🐦, Sou Flávia Oliveira
 
+#### Desenvolvedora Front End.
 #### Futura Técnica em Informática e Desenvolvedora Full Stack.
 
 <br>
