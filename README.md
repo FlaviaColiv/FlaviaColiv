@@ -34,6 +34,8 @@
   ### Design
   <img align="center" alt="FIGMA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="CANVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+ <img align="center" alt="KRITA" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRI4VCJgJbHW6TRXNUVi7-QdnoheNxHhx-9dI_fv_tVbOidnrmMggNfoSyrQVQT8eeXyM&usqp=CAU">
+ 
   
 
 <br><br>
