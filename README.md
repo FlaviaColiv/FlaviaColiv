@@ -91,4 +91,4 @@
 </div>
 
 
-<a href="https://flaviacoliv.github.io/Portfolio/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112573582/220757504-3ebfa359-c384-445e-8bff-0e94e01b1be3.gif"></a>
+<a href="https://flaviacoliv.github.io/Portfolio/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112573582/220762560-f8088888-c788-4615-8774-fdab3438fe8d.gif"></a>
