@@ -50,6 +50,18 @@
 
 <br><br>
 
+# Certificações
+
+<br>
+<ul>
+  <li>🌀 Curso DevQuest de Desenvolvimento Front-End utilizando HTML, CSS, JavaScript, React ➙ Status: Andamento </li>
+  <li>🌀 Curso Técnico em Informática ➙ Status: Andamento </li>
+  <li>✔️ Curso Programação Web - HTML, CSS, JavaScript, Banco de Dados MySQL e PHP ➙ Status: Concluído </li>
+  
+</ul>
+
+<br><br>
+
  # Status GitHub
 <div>
   <a href="https://github.com/FlaviaColiv">
