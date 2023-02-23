@@ -74,7 +74,7 @@
 
 ## Obrigada por visitar meu perfil do GitHub!
 
-<div>
+<div background-color:"white" >
 <br>
 
 
