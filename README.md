@@ -1,11 +1,12 @@
 <h1 align="center">Olá 🐦, Sou Flávia Oliveira</h1> 
-<h3 align="center"> DEV FRONT-END</h3>
+<h3 align="center"> DESENVOLVEDORA FRONT-END</h3>
 <br>
 
 <a href="https://flaviacoliv.github.io/Portfolio/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112573582/220430420-fe3f1d05-23ad-4d10-bf36-177dc044d6c4.jpeg"></a>
 <br><br>
 
-<h4> Futura Técnica em Informática e Desenvolvedora Full Stack. </h4>
+<h5> Após 5 anos na área técnica química estou em processo de Mudança de Carreira, migrando para a Área da Tecnologia. </h5>
+<h4>Futura Técnica em Informática e Desenvolvedora Full Stack. </h4>
 <br>
 <a href="https://www.linkedin.com/in/flavia-oliveira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
@@ -21,7 +22,10 @@
   <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PYTHON" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
   <img align="center" alt="GIT" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
-  <img background-color:"white" align="center" alt="GITHUB" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
+  <img color:"white" align="center" alt="GITHUB" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
+    <img color:"white" align="center" alt="GITHUB" height="50" width="60" src="https://user-images.githubusercontent.com/112573582/222976643-dc4d42d5-13df-4466-846c-19cc0de38170.svg">
+  
+
   <br><br><br>
   
   ### Processo de Aprendizado
