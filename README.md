@@ -1,4 +1,5 @@
-<h1 align="center">Olá 🐦, Sou Flávia Oliveira</h1> 
+<h3 align="center">Olá!</h3>
+<h1 align="center">Sou Flávia Oliveira</h1>
 <h3 align="center"> DESENVOLVEDORA FRONT-END</h3>
 <br>
 
