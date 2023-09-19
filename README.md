@@ -79,17 +79,20 @@
 <br><br>
 
 ## Obrigada por visitar meu perfil do GitHub!
-
+  <!--
 <div background-color:"white" >
+
+
+  
+<br>
+  
+  ![Snake animation](https://github.com/FlaviaColiv/FlaviaColiv/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 
-
-![Snake animation](https://github.com/FlaviaColiv/FlaviaColiv/blob/output/github-contribution-grid-snake.svg)
-
-<br>
 
 </div>
-
+-->
 <div>
  
  ![Visitante](https://visitor-badge.laobi.icu/badge?page_id=FlaviaColiv.id)
