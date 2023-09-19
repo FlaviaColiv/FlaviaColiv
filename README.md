@@ -79,6 +79,7 @@
 <br><br>
 
 ## Obrigada por visitar meu perfil do GitHub!
+  
   <!--
 <div background-color:"white" >
 
@@ -93,6 +94,7 @@
 
 </div>
 -->
+
 <div>
  
  ![Visitante](https://visitor-badge.laobi.icu/badge?page_id=FlaviaColiv.id)
