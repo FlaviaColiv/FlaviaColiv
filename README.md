@@ -60,6 +60,7 @@
 
 <br>
 <ul>
+  <li>🌀 Curso Game Design - EBAC ➙ Status: Andamento </li>
   <li>🌀 Curso DevQuest de Desenvolvimento Front-End utilizando HTML, CSS, JavaScript, React ➙ Status: Andamento </li>
   <li>🌀 Curso Técnico em Informática  - IFSULDEMINAS ➙ Status: Andamento </li>
   <li>✔️ Curso Programação Web - HTML, CSS, JavaScript, Banco de Dados MySQL e PHP - Prefeitura de BH ➙ Status: Concluído </li>
