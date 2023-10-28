@@ -7,7 +7,7 @@
 <br><br>
 
 <h5> Após 5 anos na área técnica química estou em processo de Mudança de Carreira, migrando para a Área da Tecnologia. </h5>
-<h4>Futura Técnica em Informática e Desenvolvedora Full Stack. </h4>
+<h4>Futura Desenvolvedora Full Stack e Game Design. </h4>
 <br>
 <a href="https://www.linkedin.com/in/flavia-oliveira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
