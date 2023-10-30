@@ -1,4 +1,4 @@
-<body backgroundcolor= "white" text-decoration-color="black" >
+
   <h3 align="center">Olá!</h3>
 <h1 align="center">Sou Flávia Oliveira</h1>
 <h3 align="center"> DESENVOLVEDORA FRONT-END & GAME DESIGN</h3>
@@ -60,8 +60,6 @@
   <img align="center" alt="CANVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
  <img align="center" alt="KRITA" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRI4VCJgJbHW6TRXNUVi7-QdnoheNxHhx-9dI_fv_tVbOidnrmMggNfoSyrQVQT8eeXyM&usqp=CAU">
  
-  
-
 <br><br>
 </div>
 
@@ -75,13 +73,14 @@
 # Certificações
 
 <br>
-<ul>
-  <li>🌀 Curso Game Design - EBAC ➙ Status: Andamento </li>
-  <li>🌀 Curso DevQuest de Desenvolvimento Front-End utilizando HTML, CSS, JavaScript, React ➙ Status: Andamento </li>
-  <li>✔️ Curso Programação Web - HTML, CSS, JavaScript, Banco de Dados MySQL e PHP - Prefeitura de BH ➙ Status: Concluído </li>
-  <li>✔️ Curso Criação de Sites - Prefeitura de BH ➙ Status: Concluído </li>
-  <li>✔️ Curso Técnico em Qualidade - IFSULDEMINAS ➙ Status: Concluído </li>
-</ul>
+
+| Curso | Instituição | Status |
+|-------|-------------|-----------|
+|🌀 Game Design | EBAC | Andamento |
+|🌀 Desenvolvimento Front-End utilizando HTML, CSS, JavaScript, React | DevQuest | Andamento |
+|✔️ Programação Web - HTML, CSS, JavaScript, Banco de Dados MySQL e PHP | Prefeitura de BH | Concluído | 
+|✔️ Criação de Sites | Prefeitura de BH | Concluído |
+|✔️ Técnico em Qualidade | IFSULDEMINAS | Concluído |
 
 <br><br>
 
@@ -99,14 +98,11 @@
   <!--
 <div background-color:"white" >
 
-
-  
 <br>
   
   ![Snake animation](https://github.com/FlaviaColiv/FlaviaColiv/blob/output/github-contribution-grid-snake.svg)
 
 <br>
-
 
 </div>
 -->
@@ -117,7 +113,4 @@
 
 </div>
 
-
 <a href="https://flaviacoliv.github.io/Portfolio/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112573582/220762560-f8088888-c788-4615-8774-fdab3438fe8d.gif"></a>
-
-</body>
