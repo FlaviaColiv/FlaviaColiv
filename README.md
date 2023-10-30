@@ -1,7 +1,7 @@
 
   <h3 align="center">Olá!</h3>
 <h1 align="center">Sou Flávia Oliveira</h1>
-<h3 align="center"> DESENVOLVEDORA FRONT-END & GAME DESIGN</h3>
+<h3 align="center"> DESENVOLVEDORA FRONT-END & GAME DESIGNER</h3>
 <br>
 
 <a href="https://flaviacoliv.github.io/Portfolio/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112573582/220430420-fe3f1d05-23ad-4d10-bf36-177dc044d6c4.jpeg"></a>
