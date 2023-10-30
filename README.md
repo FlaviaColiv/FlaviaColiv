@@ -1,4 +1,5 @@
-<h3 align="center">Olá!</h3>
+<body style="backgroundcolor: white; color:black" >
+  <h3 align="center">Olá!</h3>
 <h1 align="center">Sou Flávia Oliveira</h1>
 <h3 align="center"> DESENVOLVEDORA FRONT-END & GAME DESIGN</h3>
 <br>
@@ -12,6 +13,8 @@
 <a href="https://www.linkedin.com/in/flavia-oliveira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
+  
+</body>
 
 
 ## Linguagens e Ferramentas
@@ -108,3 +111,5 @@
 
 
 <a href="https://flaviacoliv.github.io/Portfolio/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112573582/220762560-f8088888-c788-4615-8774-fdab3438fe8d.gif"></a>
+
+</body>
