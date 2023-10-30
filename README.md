@@ -1,4 +1,4 @@
-<body style="backgroundcolor: white; text-decoration:black" >
+<body backgroundcolor= "white" text-decoration-color="black" >
   <h3 align="center">Olá!</h3>
 <h1 align="center">Sou Flávia Oliveira</h1>
 <h3 align="center"> DESENVOLVEDORA FRONT-END & GAME DESIGN</h3>
@@ -7,7 +7,15 @@
 <a href="https://flaviacoliv.github.io/Portfolio/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112573582/220430420-fe3f1d05-23ad-4d10-bf36-177dc044d6c4.jpeg"></a>
 <br><br>
 
-<h5> Após 5 anos na área técnica química estou em processo de Mudança de Carreira, migrando para a Área da Tecnologia. </h5>
+<h5 align="center">
+  A Transição de Carreira é um processo de aprendizado e a construção de uma nova mentalidade. <br>Para alguns é lento, para outros, nem tanto. 
+</h5>
+
+<h5 align="center"> 
+  Raramente é fácil. Porém, nunca impossível.
+</h5>
+
+<h5 align="justify"> Após 5 anos na área técnica química estou em processo de Transição de Carreira, migrando para a Área da Tecnologia. </h5>
 <h4>Futura Desenvolvedora Full Stack e Game Design. </h4>
 <br>
 <a href="https://www.linkedin.com/in/flavia-oliveira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
