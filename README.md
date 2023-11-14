@@ -4,7 +4,7 @@
 <h3 align="center"> DESENVOLVEDORA FRONT-END & GAME DESIGNER</h3>
 <br>
 
-<a href="https://flaviacoliv.github.io/Portfolio/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112573582/220430420-fe3f1d05-23ad-4d10-bf36-177dc044d6c4.jpeg"></a>
+<a href="https://flaviacoliv.github.io/PortfolioByFlavia/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112573582/220430420-fe3f1d05-23ad-4d10-bf36-177dc044d6c4.jpeg"></a>
 <br><br>
 
 <h5 align="center">
@@ -114,4 +114,4 @@
 
 </div>
 
-<a href="https://flaviacoliv.github.io/Portfolio/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112573582/220762560-f8088888-c788-4615-8774-fdab3438fe8d.gif"></a>
+<a href="https://flaviacoliv.github.io/PortfolioByFlavia)" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112573582/220762560-f8088888-c788-4615-8774-fdab3438fe8d.gif"></a>
