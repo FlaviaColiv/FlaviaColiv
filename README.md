@@ -79,6 +79,7 @@
 |🌀 Game Design | EBAC | Andamento |
 |🌀 Desenvolvimento Front-End utilizando HTML, CSS, JavaScript, React | DevQuest | Andamento |
 |🌀 Bootcamp Desenvolvimento de Jogos | DIO | Andamento |
+|🌀 Desenvolvimento Front-End utilizando HTML, CSS, JavaScript | WOMAKERSCODE | Andamento |
 |✔️ Programação Web - HTML, CSS, JavaScript, Banco de Dados MySQL e PHP | Prefeitura de BH | Concluído | 
 |✔️ Criação de Sites | Prefeitura de BH | Concluído |
 |✔️ Técnico em Qualidade | IFSULDEMINAS | Concluído |
