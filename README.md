@@ -66,7 +66,7 @@
 # Projetos
 
 <br>
-<a href="https://github.com/FlaviaColiv/MulherImportanteTec" target="_blank"><img height="75em" align="center" src="https://github.com/FlaviaColiv/FlaviaColiv/assets/112573582/3d89bd0d-f96c-4aac-90cd-14660a16b4cd</a>
+<a href="https://github.com/FlaviaColiv/MulherImportanteTec" target="_blank"><img height="75em" align="center" src="https://github.com/FlaviaColiv/MulherImportanteTec/blob/main/assets/images/Captura%20de%20tela%202023-11-23%20103602.pn)</a>
 
 <a href="https://flaviacoliv.github.io/Projeto-Mario-BROS--DEVQUEST/" target="_blank"><img height="75em" align="center" src="https://user-images.githubusercontent.com/112573582/220513101-bbee8805-16e4-473f-bb73-d93af85d639e.png"></a>
 
