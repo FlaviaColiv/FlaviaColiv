@@ -78,15 +78,19 @@
 
 <br>
 
-| Curso | Instituição | Status |
-|-------|-------------|-----------|
-|🌀 Game Design | EBAC | Andamento |
-|🌀 Desenvolvimento Front-End utilizando HTML, CSS, JavaScript, React | DevQuest | Andamento |
-|🌀 Bootcamp Desenvolvimento de Jogos | DIO | Andamento |
-|🌀 Desenvolvimento Front-End utilizando HTML, CSS, JavaScript | WOMAKERSCODE | Andamento |
-|✔️ Programação Web - HTML, CSS, JavaScript, Banco de Dados MySQL e PHP | Prefeitura de BH | Concluído | 
-|✔️ Criação de Sites | Prefeitura de BH | Concluído |
-|✔️ Técnico em Qualidade | IFSULDEMINAS | Concluído |
+| Curso | Instituição | Status | Fim |
+|-------|-------------|-----------|----|
+|🌀 Game Design | EBAC | Andamento | Mar/2024 |
+|🌀 Desenvolvimento Front-End utilizando HTML, CSS, JavaScript, React | DevQuest | Andamento | Abr/2024 |
+|🌀 Bootcamp Desenvolvimento de Jogos | DIO | Andamento | Dez/2023 |
+|🌀 Bootcamp Desenvolvimento de Jogos | DIO | Andamento | Dez/2023 |
+|🌀 Licenciatura em Química | Estácio | Andamento | Dez/2024 |
+|🌀 Engenharia Química | UFBA | Andamento | Jun/2028 |
+|✔️ Desenvolvimento Front-End utilizando HTML, CSS, JavaScript | WOMAKERSCODE | Concluído | Nov/2023 |
+|✔️ Programação Web - HTML, CSS, JavaScript, Banco de Dados MySQL e PHP | Prefeitura de BH | Concluído | Jan/2023 |
+|✔️ Criação de Sites | Prefeitura de BH | Concluído | Dez/2022 |
+|✔️ Técnico em Qualidade | IFSULDEMINAS | Concluído | Dez/2021 |
+|✔️ Técnico em Química | SENAI Lauro de Freitas (BA) | Concluído | Dez/2019 |
 
 <br><br>
 
