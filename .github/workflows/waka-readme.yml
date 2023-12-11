@@ -12,5 +12,4 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ nomeSecreto }}
-         
+          WAKATIME_API_KEY: ${{ NOMESECRETO }}        
