@@ -17,7 +17,13 @@
 <h5 align="center"> Após 5 anos na área técnica química estou em processo de Transição de Carreira, migrando para a Área da Tecnologia. </h5>
 
 <br>
+<div align="center">
+  
+  <!-- real time -->
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=100&theme=basic&rotate=173)](https://moon-svg.minung.dev)
 <a href="https://www.linkedin.com/in/flavia-oliveira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
 
 
   
