@@ -1,8 +1,11 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
   <h3 align="center">Olá!</h3>
 <h1 align="center">Sou Flávia Oliveira</h1>
 <h3 align="center"> DESENVOLVEDORA FRONT-END && GAME DESIGNER</h3>
 <br>
+
 <!--
 <a href="https://flaviacoliv.github.io/PortfolioByFlavia/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112573582/220430420-fe3f1d05-23ad-4d10-bf36-177dc044d6c4.jpeg"></a>
 <br><br>
@@ -30,10 +33,10 @@
   <br>
   <br>
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,typescript,figma,unity,git,github,php,mysql&perline=10&theme=light)](https://github.com/flaviacoliv)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,typescript,unity,figma,git,github,php,mysql,autocad&perline=7&theme=light)](https://github.com/flaviacoliv)
   
   <br>
-  <br>
+  ![](./profile-3d-contrib/profile-green-animate.svg)
   <br>
 </div>
 
@@ -42,9 +45,8 @@
 
 <br>
 
-<a href="https://github.com/FlaviaColiv/MulherImportanteTec" target="_blank"><img height="75em" align="center" src="https://github.com/FlaviaColiv/MulherImportanteTec/blob/main/assets/images/Captura%20de%20tela%202023-11-23%20103602.png"></a> <p> <i>Landing Page</i> - Mais Mulheres.tech - WOMAKERSCODE </p> 
-<br>
-<a href="https://github.com/FlaviaColiv/Projeto-Mario-BROS--DEVQUEST" target="_blank"><img height="75em" align="center" src="https://user-images.githubusercontent.com/112573582/220513101-bbee8805-16e4-473f-bb73-d93af85d639e.png"></a> <p> <i>Landing Page</i> - DevQuest </p> 
+<a href="https://github.com/FlaviaColiv/MulherImportanteTec" target="_blank"><img height="80em" align="center" src="https://github.com/FlaviaColiv/MulherImportanteTec/blob/main/assets/images/Captura%20de%20tela%202023-11-23%20103602.png"></a> 
+<a href="https://github.com/FlaviaColiv/Projeto-Mario-BROS--DEVQUEST" target="_blank"><img height="75em" align="center" src="https://user-images.githubusercontent.com/112573582/220513101-bbee8805-16e4-473f-bb73-d93af85d639e.png"></a>
 
 <br><br>
 </div>
