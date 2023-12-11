@@ -1,21 +1,18 @@
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
 
-  <h3 align="center">Olá!</h3>
-<h1 align="center">Sou Flávia Oliveira</h1>
-<h3 align="center"> DESENVOLVEDORA FRONT-END && GAME DESIGNER</h3>
-<br>
+<h3 align="center">Olá! Sou,</h3>
+<div align="center">
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=50:FFF0F5,50:D8BFD8&height=300&section=header&text=Flávia%20Oliveira&fontSize=90&desc=DESENVOLVEDORA%20FRONT-END%20E%20GAME%20DESIGNER&animation=fadeIn&fontColor=FFFFFF&fontAlignY=30)
+</div>
 
 <!--
 <a href="https://flaviacoliv.github.io/PortfolioByFlavia/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112573582/220430420-fe3f1d05-23ad-4d10-bf36-177dc044d6c4.jpeg"></a>
 <br><br>
 -->
-<h5 align="center">
-  A Transição de Carreira é um processo de aprendizado e a construção de uma nova mentalidade. <br>Para alguns é lento, para outros, nem tanto. 
-</h5>
-
-<h5 align="center"> Após 5 anos na área técnica química estou em processo de Transição de Carreira, migrando para a Área da Tecnologia. </h5>
-
+<h3 align="center">
+  Em Transição de Carreira </h3>
 <br>
 <div align="center">
   
