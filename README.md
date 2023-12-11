@@ -16,6 +16,8 @@
 <br>
 <div align="center">
 
+![light](https://raw.githubusercontent.com/FlaviaColiv/FlaviaColiv/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
+
   
   <!-- real time -->
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=100&theme=basic&rotate=173)](https://moon-svg.minung.dev)
