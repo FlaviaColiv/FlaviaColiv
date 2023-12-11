@@ -17,7 +17,7 @@
 <div align="center">
 
  
-![light](https://raw.githubusercontent.com/FlaviaColiv/FlaviaColiv/master/images/wakatime_weekly_language_stats.svg)
+
 
   
   <!-- real time -->
@@ -90,34 +90,31 @@
 <div align="center" >
   <a href="https://github.com/FlaviaColiv">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FlaviaColiv&show_icons=true&theme=transparent"/></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent" target="_blank"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent"/></a>  
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent" target="_blank"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent"/></a>
+  
+  ![](https://raw.githubusercontent.com/FlaviaColiv/FlaviaColiv/main/images/wakatime_weekly_language_stats.svg)
 </div>
 
-<br><br>
 
-## Obrigada por visitar meu perfil do GitHub!
   
 <div align="center">  
 <div background-color:"white" align="center" >
-
 <br>
-  
-  
-  
 <div height="25px">
   <!--
   <a href="https://github.com/flaviacoliv"><img src="https://raw.githubusercontent.com/danielbped/danielbped/573d3c6b47ca73fc60eea5dd0f60cd8b29006fc0/github-contribution-grid-snake.svg" /></a>
   -->
   
   ![3D](./profile-3d-contrib/profile-south-season-animate.svg) <!-- Site de Origem: https://github.com/yoshi389111/github-profile-3d-contrib -->
+
+  
+  ![](https://raw.githubusercontent.com/FlaviaColiv/FlaviaColiv/master/images/wakatime_weekly_language_stats.svg)
   
 </div>
-  
-
-<br>
-
 </div>
+<br><br>
 
+## Obrigada por visitar meu perfil!
 
 <div>
  
