@@ -104,17 +104,17 @@
 
 ## Obrigada por visitar meu perfil do GitHub!
   
-  <!--
+  
 <div background-color:"white" >
 
 <br>
   
-  ![Snake animation](https://github.com/FlaviaColiv/FlaviaColiv/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://github.com/flaviacoliv"><img src="https://raw.githubusercontent.com/danielbped/danielbped/573d3c6b47ca73fc60eea5dd0f60cd8b29006fc0/github-contribution-grid-snake.svg" /></a>
 
 <br>
 
 </div>
--->
+
 
 <div>
  
@@ -123,3 +123,5 @@
 </div>
 
 <a href="https://flaviacoliv.github.io/PortfolioByFlavia" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112573582/220762560-f8088888-c788-4615-8774-fdab3438fe8d.gif"></a>
+
+
