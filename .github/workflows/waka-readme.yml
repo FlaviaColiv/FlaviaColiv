@@ -14,4 +14,14 @@ jobs:
     steps:
       - uses: athul/waka-readme@master # this action name
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ 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 }}
+          REPOSITORY: FlaviaColiv/FlaviaColiv
+          SHOW_TITLE: true # optional
+          SECTION_NAME: waka # optional
+          BLOCKS: ░▒▓█ # optional
+          TIME_RANGE: all_time # optional
+          LANG_COUNT: 10 # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          SHOW_MASKED_TIME: false # optional
+          STOP_AT_OTHER: true # optional
