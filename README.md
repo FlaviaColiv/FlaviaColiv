@@ -1,5 +1,5 @@
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
 
   <h3 align="center">Olá!</h3>
 <h1 align="center">Sou Flávia Oliveira</h1>
@@ -36,7 +36,9 @@
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,typescript,unity,figma,git,github,php,mysql,autocad&perline=7&theme=light)](https://github.com/flaviacoliv)
   
   <br>
-  ![](./profile-3d-contrib/profile-green-animate.svg)
+  
+  ![3D](./profile-3d-contrib/profile-south-season-animate.svg)
+  
   <br>
 </div>
 
