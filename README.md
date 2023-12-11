@@ -15,6 +15,7 @@
   Em Transição de Carreira </h3>
 <br>
 <div align="center">
+
   
   <!-- real time -->
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=100&theme=basic&rotate=173)](https://moon-svg.minung.dev)
@@ -45,9 +46,18 @@
 <h1>Projetos</h1> 
 
 <br>
+<table width="1800" align="center">
+<tr>
+<td valign="top" width="50%">
+<a href="https://github.com/FlaviaColiv/MulherImportanteTec" target="_blank"><img height="200"  align="center" src="https://github.com/FlaviaColiv/MulherImportanteTec/blob/main/assets/images/Captura%20de%20tela%202023-11-23%20103602.png"></a> 
+</td>
 
-<a href="https://github.com/FlaviaColiv/MulherImportanteTec" target="_blank"><img height="100em" align="center" src="https://github.com/FlaviaColiv/MulherImportanteTec/blob/main/assets/images/Captura%20de%20tela%202023-11-23%20103602.png"></a> 
-<a href="https://github.com/FlaviaColiv/Projeto-Mario-BROS--DEVQUEST" target="_blank"><img height="75em" align="center" src="https://user-images.githubusercontent.com/112573582/220513101-bbee8805-16e4-473f-bb73-d93af85d639e.png"></a>
+<td valign="top" width="50%">
+  <a href="https://github.com/FlaviaColiv/Projeto-Mario-BROS--DEVQUEST" target="_blank"><img height="200" align="center" src="https://user-images.githubusercontent.com/112573582/220513101-bbee8805-16e4-473f-bb73-d93af85d639e.png"></a>
+</td>
+</tr>
+</table>
+
 
 <br><br>
 </div>
