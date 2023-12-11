@@ -52,11 +52,11 @@
 <table width="1800" align="center">
 <tr>
 <td valign="top" width="50%">
-<a href="https://github.com/FlaviaColiv/MulherImportanteTec" target="_blank"><img height="200"  align="center" src="https://github.com/FlaviaColiv/MulherImportanteTec/blob/main/assets/images/Captura%20de%20tela%202023-11-23%20103602.png"></a> 
+<a href="https://github.com/FlaviaColiv/MulherImportanteTec" target="_blank"><img align="center" src="https://github.com/FlaviaColiv/MulherImportanteTec/blob/main/assets/images/Captura%20de%20tela%202023-11-23%20103602.png"></a> 
 </td>
 
 <td valign="top" width="50%">
-  <a href="https://github.com/FlaviaColiv/Projeto-Mario-BROS--DEVQUEST" target="_blank"><img height="200" align="center" src="https://user-images.githubusercontent.com/112573582/220513101-bbee8805-16e4-473f-bb73-d93af85d639e.png"></a>
+  <a href="https://github.com/FlaviaColiv/Projeto-Mario-BROS--DEVQUEST" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112573582/220513101-bbee8805-16e4-473f-bb73-d93af85d639e.png"></a>
 </td>
 </tr>
 </table>
@@ -122,10 +122,6 @@
 
 </div>
 
-
-  
 </div>
 
 <a href="https://flaviacoliv.github.io/PortfolioByFlavia" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112573582/220762560-f8088888-c788-4615-8774-fdab3438fe8d.gif"></a>
-
-
