@@ -14,10 +14,6 @@
   A Transição de Carreira é um processo de aprendizado e a construção de uma nova mentalidade. <br>Para alguns é lento, para outros, nem tanto. 
 </h5>
 
-<h5 align="center"> 
-  Raramente é fácil. Porém, nunca impossível.
-</h5>
-
 <h5 align="center"> Após 5 anos na área técnica química estou em processo de Transição de Carreira, migrando para a Área da Tecnologia. </h5>
 
 <br>
@@ -37,7 +33,7 @@
   
   <br>
   
-  ![3D](./profile-3d-contrib/profile-south-season-animate.svg)
+  
   
   <br>
 </div>
@@ -47,7 +43,7 @@
 
 <br>
 
-<a href="https://github.com/FlaviaColiv/MulherImportanteTec" target="_blank"><img height="80em" align="center" src="https://github.com/FlaviaColiv/MulherImportanteTec/blob/main/assets/images/Captura%20de%20tela%202023-11-23%20103602.png"></a> 
+<a href="https://github.com/FlaviaColiv/MulherImportanteTec" target="_blank"><img height="100em" align="center" src="https://github.com/FlaviaColiv/MulherImportanteTec/blob/main/assets/images/Captura%20de%20tela%202023-11-23%20103602.png"></a> 
 <a href="https://github.com/FlaviaColiv/Projeto-Mario-BROS--DEVQUEST" target="_blank"><img height="75em" align="center" src="https://user-images.githubusercontent.com/112573582/220513101-bbee8805-16e4-473f-bb73-d93af85d639e.png"></a>
 
 <br><br>
@@ -90,7 +86,16 @@
 
 <br>
   
+  
+  
+<div height="25px">
+  
   <a href="https://github.com/flaviacoliv"><img src="https://raw.githubusercontent.com/danielbped/danielbped/573d3c6b47ca73fc60eea5dd0f60cd8b29006fc0/github-contribution-grid-snake.svg" /></a>
+  
+  ![3D](./profile-3d-contrib/profile-south-season-animate.svg) <!-- Site de Origem: https://github.com/yoshi389111/github-profile-3d-contrib -->
+  
+</div>
+  
 
 <br>
 
