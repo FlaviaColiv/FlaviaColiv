@@ -19,9 +19,12 @@
  
 
 
-  
+<p>The Moon Today</p>
+
   <!-- real time -->
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=100&theme=basic&rotate=173)](https://moon-svg.minung.dev)
+
+
 <a href="https://www.linkedin.com/in/flavia-oliveira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
@@ -61,13 +64,10 @@
 </tr>
 </table>
 
-
 <br><br>
 </div>
 
-
-
-<h1 align="center">Certificações</h1> 
+<h1 align="center">Formações</h1> 
 
 <br>
 
@@ -86,8 +86,8 @@
 
 <br><br>
 
- # Status GitHub
 <div align="center" >
+  <h1>Status GitHub</h1>
   <a href="https://github.com/FlaviaColiv">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FlaviaColiv&show_icons=true&theme=transparent"/></a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent" target="_blank"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent"/></a>
