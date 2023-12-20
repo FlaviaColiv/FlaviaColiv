@@ -101,9 +101,7 @@
 <div background-color:"white" align="center" >
 <br>
 <div height="25px">
-  <!--
-  <a href="https://github.com/flaviacoliv"><img src="https://raw.githubusercontent.com/danielbped/danielbped/573d3c6b47ca73fc60eea5dd0f60cd8b29006fc0/github-contribution-grid-snake.svg" /></a>
-  -->
+
   
   ![3D](./profile-3d-contrib/profile-south-season-animate.svg) <!-- Site de Origem: https://github.com/yoshi389111/github-profile-3d-contrib -->
 
@@ -112,6 +110,19 @@
   
 </div>
 </div>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=FlaviaColiv&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=FlaviaColiv&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FlaviaColiv&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+</picture>
+
 <br><br>
 
 ## Obrigada por visitar meu perfil!
