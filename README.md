@@ -16,21 +16,15 @@
 <br>
 <div align="center">
 
- 
-
-
 <p>The Moon Today</p>
 
   <!-- real time -->
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=100&theme=basic&rotate=173)](https://moon-svg.minung.dev)
 
-
 <a href="https://www.linkedin.com/in/flavia-oliveira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:0flavia.oliveira0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </div>
 
-
-
-  
 </body>
 
 <div align="center">
@@ -42,9 +36,6 @@
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,typescript,unity,figma,git,github,php,mysql,autocad&perline=7&theme=light)](https://github.com/flaviacoliv)
   
   <br>
-  
-  
-  
   <br>
 </div>
 
@@ -95,23 +86,17 @@
   ![](https://raw.githubusercontent.com/FlaviaColiv/FlaviaColiv/main/profile-3d-contrib/wakatime_weekly_language_stats.svg)
 </div>
 
-
-  
 <div align="center">  
 <div background-color:"white" align="center" >
 <br>
 <div height="25px">
-
   
   ![3D](./profile-3d-contrib/profile-south-season-animate.svg) <!-- Site de Origem: https://github.com/yoshi389111/github-profile-3d-contrib -->
 
-  
   ![](https://raw.githubusercontent.com/FlaviaColiv/FlaviaColiv/master/images/wakatime_weekly_language_stats.svg)
   
 </div>
 </div>
-
-
 
 <br><br>
 
