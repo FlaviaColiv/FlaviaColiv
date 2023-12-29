@@ -10,9 +10,10 @@
 <!--
 <a href="https://flaviacoliv.github.io/PortfolioByFlavia/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112573582/220430420-fe3f1d05-23ad-4d10-bf36-177dc044d6c4.jpeg"></a>
 <br><br>
--->
 <h4 align="center">
   Em Transição de Carreira </h4>
+-->
+
 <br>
 <div align="center">
 
@@ -22,7 +23,7 @@
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=100&theme=basic&rotate=173)](https://moon-svg.minung.dev)
 
 <a href="https://www.linkedin.com/in/flavia-oliveira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:0flavia.oliveira0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="mailto:flaviacoliv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </div>
 
 </body>
