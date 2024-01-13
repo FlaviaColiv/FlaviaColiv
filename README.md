@@ -17,7 +17,7 @@
 <br>
 <div align="center">
 
-<p>Today's Moon</p>
+<p>Moon Today</p>
 
   <!-- real time -->
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=100&theme=basic&rotate=173)](https://moon-svg.minung.dev)
