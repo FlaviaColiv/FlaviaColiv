@@ -4,12 +4,13 @@
 <h3 align="center">Olá! Sou,</h3>
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=50:FFF0F5,50:D8BFD8&height=300&section=header&text=Flávia%20Oliveira&fontSize=90&desc=DESENVOLVEDORA%20FRONT-END%20E%20GAME%20DESIGNER&animation=fadeIn&fontColor=FFFFFF&fontAlignY=30)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=50:FFF0F5,50:D8BFD8&height=300&section=header&text=Flávia%20Oliveira&fontSize=90&desc=DESENVOLVEDORA%20FRONT-END,%20GAME%20DESIGNER%20E%20TÉCNICA%20EM%20QUÍMICA&animation=fadeIn&fontColor=FFFFFF&fontAlignY=30)
 </div>
 
 <!--
 <a href="https://flaviacoliv.github.io/PortfolioByFlavia/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112573582/220430420-fe3f1d05-23ad-4d10-bf36-177dc044d6c4.jpeg"></a>
 <br><br>
+
 <h4 align="center">
   Em Transição de Carreira </h4>
 -->
