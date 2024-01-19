@@ -4,7 +4,7 @@
 <h3 align="center">Olá! Sou,</h3>
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=50:FFF0F5,50:D8BFD8&height=300&section=header&text=Flávia%20Oliveira&fontSize=90&desc=DESENVOLVEDORA%20FRONT-END,%20GAME%20DESIGNER%20E%20TÉCNICA%20EM%20QUÍMICA&animation=fadeIn&fontColor=FFFFFF&fontAlignY=30)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=50:FFF0F5,50:BF97BF&height=300&section=header&text=Flávia%20Oliveira&fontSize=90&desc=DESENVOLVEDORA%20FRONT-END,%20GAME%20DESIGNER%20E%20TÉCNICA%20EM%20QUÍMICA&animation=fadeIn&fontColor=FFFFFF&fontAlignY=30)
 </div>
 
 <!--
