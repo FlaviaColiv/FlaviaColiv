@@ -104,7 +104,15 @@
 ![](https://github.com/<FlaviaColiv>/<FlaviaColiv>/blob/output/github-contribution-grid-snake2.svg)
 
 
-![Snake animation](https://github.com/FlaviaColiv/FlaviaColiv/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/FlaviaColiv/FlaviaColiv/blob/output/github-contribution-grid-snake.svg)
+
+
+<br>
+
+<img src="./src/video/FlaviaColiv-2023.stl" alt="">
+
+
+<video src="./src/video/FlaviaColiv-2023.stl"></video>
   
 </div>
 </div>
