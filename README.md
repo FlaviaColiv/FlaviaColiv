@@ -102,6 +102,9 @@
   <br>
 
 ![](https://github.com/<FlaviaColiv>/<FlaviaColiv>/blob/output/github-contribution-grid-snake2.svg)
+
+
+![Snake animation](https://github.com/FlaviaColiv/FlaviaColiv/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 </div>
