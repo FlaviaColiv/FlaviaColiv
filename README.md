@@ -34,9 +34,11 @@
 
 <td valign="top" width="50%">
 <video width="320" height="240" controls>
-    <source src="./src/video/VideoFantasy.mp4" type="video/mp4">
+    <source src="./src/video/FANTASY.gif" type="video/gif">
     Seu navegador não suporta o elemento de vídeo.
 </video>
+
+<img src="./src/video/FANTASY.gif" alt="">
 </td>
 </tr>
 </table>
