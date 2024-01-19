@@ -43,20 +43,6 @@
 </body>
 
 <div align="center">
-<p>Moon Today</p>
-
-  <!-- real time -->
-[![Moon.svg](https://moon-svg.minung.dev/moon.svg?size=100&theme=basic&rotate=173)](https://moon-svg.minung.dev)
-
-<a href="https://www.linkedin.com/in/flavia-oliveira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:flaviacoliv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-<a href="https://www.linkedin.com/in/flaviacoliv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-<img src="./src/video/FANTASY.gif" alt="">
-
-</div>
-
-<div align="center">
 <h2>Linguagens e Ferramentas</h2> 
 
   <br>
