@@ -43,6 +43,14 @@
 
 </body>
 
+
+<video width="320" height="240" controls>
+    <source src="./src/video/VideoFantasy.mp4" type="video/mp4">
+    Seu navegador não suporta o elemento de vídeo.
+</video>
+
+[](https://github.com/FlaviaColiv/FlaviaColiv/blob/main/src/video/VideoFantasy.mp4)
+
 <div align="center">
 <h2>Linguagens e Ferramentas</h2> 
 
