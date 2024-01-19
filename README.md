@@ -16,6 +16,12 @@
 -->
 
 <br>
+
+
+
+<table width="1800" align="center">
+<tr>
+<td valign="top" width="50%">
 <div align="center">
 
 <p>Moon Today</p>
@@ -27,6 +33,15 @@
 <a href="mailto:flaviacoliv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 <a href="https://www.linkedin.com/in/flaviacoliv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+</td>
+
+<td valign="top" width="50%">
+<img src="./src/video/Vídeo do WhatsApp de 2024-01-19 à(s) 15.29.28_96eb31c4.mp4" alt="">
+</td>
+</tr>
+</table>
+
+
 
 </body>
 
