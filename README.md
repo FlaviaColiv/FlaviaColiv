@@ -16,7 +16,7 @@
 -->
 
 <br>
-<table width="100%" align="center" style="border-collapse: collapse;">
+<table width="100%" align="center" border="none">
 <tr>
 <td valign="center" width="50%">
 <div align="center">
