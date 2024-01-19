@@ -33,7 +33,9 @@
 </td>
 
 <td valign="center" width="50%">
+<div align="center">
 <img src="./src/video/FANTASY.gif" alt="">
+</div>
 </td>
 </tr>
 </table>
