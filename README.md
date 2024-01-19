@@ -18,7 +18,7 @@
 <br>
 <table width="1800" align="center">
 <tr>
-<td valign="top" width="50%">
+<td valign="center" width="50%">
 <div align="center">
 
 <p>Moon Today</p>
@@ -32,12 +32,7 @@
 </div>
 </td>
 
-<td valign="top" width="50%">
-<video width="320" height="240" controls>
-    <source src="./src/video/FANTASY.gif" type="video/gif">
-    Seu navegador não suporta o elemento de vídeo.
-</video>
-
+<td valign="center" width="50%">
 <img src="./src/video/FANTASY.gif" alt="">
 </td>
 </tr>
