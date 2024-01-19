@@ -33,7 +33,7 @@
 </td>
 
 <td valign="top" width="50%">
-<img src="./src/video/Vídeo do WhatsApp de 2024-01-19 à(s) 15.29.28_96eb31c4.mp4" alt="">
+<video src="./src/video/Vídeo do WhatsApp de 2024-01-19 à(s) 15.29.28_96eb31c4.mp4"></video>
 </td>
 </tr>
 </table>
