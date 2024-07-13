@@ -7,6 +7,11 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=50:FFF0F5,50:BF97BF&height=300&section=header&text=Flávia%20Oliveira&fontSize=90&desc=DESENVOLVEDORA%20FRONT-END,%20GAME%20DESIGNER%20E%20TÉCNICA%20EM%20QUÍMICA&animation=fadeIn&fontColor=FFFFFF&fontAlignY=30)
 </div>
 
+<h2 align="center"> Retornando após recuperação de saúde!!! 
+<h5 align="center">  jun-2024
+
+  <br><br>
+
 <!--
 <a href="https://flaviacoliv.github.io/PortfolioByFlavia/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112573582/220430420-fe3f1d05-23ad-4d10-bf36-177dc044d6c4.jpeg"></a>
 <br><br>
@@ -16,6 +21,11 @@
 -->
 
 <br>
+<div align="center">
+
+
+
+<!--
 <table width="100%" align="center">
 <tr>
 <td valign="center" width="50%">
@@ -31,12 +41,13 @@
 <a href="https://www.linkedin.com/in/flaviacoliv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 </td>
-
+<!--
 <td valign="center" width="50%">
 <div align="center">
 <img src="./src/video/FANTASY.gif" alt="">
 </div>
 </td>
+-->
 </tr>
 </table>
 
@@ -79,10 +90,10 @@
 
 | Curso | Instituição | Status | Fim |
 |-------|-------------|-----------|----|
-|🌀 Game Design | EBAC | Andamento | - |
 |🌀 Desenvolvimento Front-End utilizando HTML, CSS, JavaScript, React | DevQuest | Andamento | - |
+|🌀 Game Design | EBAC | Andamento | - |
 |☄️ Start GameDev | CrieSeusJogos.com.br | Andamento | - |
-|🌀 Engenharia Química - 2º Semestre | UFBA | Andamento | - |
+|🌀 Engenharia Química - 3º Semestre | UFBA | Trancada | - |
 |🌟 Bootcamp Desenvolvimento de Jogos | DIO | Concluído | Dez/2023 |
 |🌟 Desenvolvimento Front-End utilizando HTML, CSS, JavaScript | WOMAKERSCODE | Concluído | Nov/2023 |
 |🌟 Programação Web - HTML, CSS, JavaScript, Banco de Dados MySQL e PHP | Prefeitura de BH | Concluído | Jan/2023 |
