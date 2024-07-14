@@ -1,10 +1,19 @@
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
 
-<h3 align="center">Olá! Sou,</h3>
+<br>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&color=BF97BF&lines=Olá!+👋+;+Sou+Flávia+Oliveira!;" />
+</h1>
+
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=50:FFF0F5,50:BF97BF&height=300&section=header&text=Flávia%20Oliveira&fontSize=90&desc=DESENVOLVEDORA%20FRONT-END,%20GAME%20DESIGNER%20E%20TÉCNICA%20EM%20QUÍMICA&animation=fadeIn&fontColor=FFFFFF&fontAlignY=30)
+<!--  ![header](https://capsule-render.vercel.app/api?type=waving&color=50:FFF0F5,50:BF97BF&height=300&section=header&text=Flávia%20Oliveira&fontSize=90&desc=DESENVOLVEDORA%20FRONT-END,%20GAME%20DESIGNER%20E%20TÉCNICA%20EM%20QUÍMICA&animation=fadeIn&fontColor=FFFFFF&fontAlignY=30) -->
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=50:FFF0F5,50:BF97BF&height=150&section=header&text=DESENVOLVEDORA%20FRONT-END,%20GAME%20DESIGNER%20E%20TÉCNICA%20EM%20QUÍMICA&animation=fadeIn&fontColor=FFFFFF&fontAlignY=30&fontSize=23)
+
+  
 </div>
 
 <h2 align="center"> Retornando após recuperação de saúde!!! 
@@ -105,7 +114,7 @@
 <br><br>
 
 <div align="center" >
-  <h1>Status GitHub</h1>
+  <h1>Minhas Contribuições</h1>
   <a href="https://github.com/FlaviaColiv">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FlaviaColiv&show_icons=true&theme=transparent"/></a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent" target="_blank"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent"/></a>
@@ -124,35 +133,19 @@
   ![](https://raw.githubusercontent.com/FlaviaColiv/FlaviaColiv/master/images/wakatime_weekly_language_stats.svg)
 
   <br>
-
-![](https://github.com/<FlaviaColiv>/<FlaviaColiv>/blob/output/github-contribution-grid-snake2.svg)
-
-
-![Snake animation](https://github.com/FlaviaColiv/FlaviaColiv/blob/output/github-contribution-grid-snake2.svg)
-
-
-
+<div align="center">
+  <h2> 🐍 Snake 🐍 </h2>
+  
 ![](https://github.com/FlaviaColiv/FlaviaColiv/blob/output/github-contribution-grid-snake.svg)
 
 
-
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-<!--   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" /> -->
-  <img alt="github-snake" src="github-snake.svg" />
-  </picture>
-
-  
-<br>
-
 <img src="./src/video/FlaviaColiv-2023.stl" alt="">
-
 
 <video src="./src/video/FlaviaColiv-2023.stl"></video>
   
 </div>
 </div>
-
+</div>
 <br><br>
 
 ## Obrigada por visitar meu perfil!
