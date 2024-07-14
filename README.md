@@ -120,6 +120,7 @@
   
   ![3D](./profile-3d-contrib/profile-south-season-animate.svg) <!-- Site de Origem: https://github.com/yoshi389111/github-profile-3d-contrib -->
 
+
   ![](https://raw.githubusercontent.com/FlaviaColiv/FlaviaColiv/master/images/wakatime_weekly_language_stats.svg)
 
   <br>
@@ -130,6 +131,14 @@
 ![](https://github.com/FlaviaColiv/FlaviaColiv/blob/output/github-contribution-grid-snake.svg)
 
 
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+  </picture>
+
+  
 <br>
 
 <img src="./src/video/FlaviaColiv-2023.stl" alt="">
