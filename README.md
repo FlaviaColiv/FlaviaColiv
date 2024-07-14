@@ -137,7 +137,7 @@
   
 ![](https://github.com/FlaviaColiv/FlaviaColiv/blob/output/github-contribution-grid-snake.svg)
 
-[![FlaviaColiv's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FlaviaColiv)](https://github.com/anuraghazra/github-readme-stats)
+[![FlaviaColiv's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FlaviaColiv)](https://wakatime.com/@FlaviaColiv)
 
 <!--  ![Suas Estatísticas no WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=018c56ec-373b-48e7-979b-12c57ebbc250)  -->
 
