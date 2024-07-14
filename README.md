@@ -32,8 +32,6 @@
 <br>
 <div align="center">
 
-
-
 <!--
 <table width="100%" align="center">
 <tr>
@@ -120,10 +118,7 @@
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent" target="_blank"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent"/></a>
   
   ![](https://raw.githubusercontent.com/FlaviaColiv/FlaviaColiv/main/profile-3d-contrib/wakatime_weekly_language_stats.svg)
-
-  [![FlaviaColiv's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FlaviaColiv)](https://github.com/anuraghazra/github-readme-stats)
-
-  
+ 
 </div>
 
 <div align="center">  
@@ -142,7 +137,11 @@
   
 ![](https://github.com/FlaviaColiv/FlaviaColiv/blob/output/github-contribution-grid-snake.svg)
 
+[![FlaviaColiv's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FlaviaColiv)](https://github.com/anuraghazra/github-readme-stats)
 
+![Suas Estatísticas no WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=018c56ec-373b-48e7-979b-12c57ebbc250) 
+
+  
 <img src="./src/video/FlaviaColiv-2023.stl" alt="">
 
 <video src="./src/video/FlaviaColiv-2023.stl"></video>
