@@ -139,7 +139,7 @@
 
 [![FlaviaColiv's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FlaviaColiv)](https://github.com/anuraghazra/github-readme-stats)
 
-![Suas Estatísticas no WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=018c56ec-373b-48e7-979b-12c57ebbc250) 
+<!--  ![Suas Estatísticas no WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=018c56ec-373b-48e7-979b-12c57ebbc250)  -->
 
   
 <img src="./src/video/FlaviaColiv-2023.stl" alt="">
