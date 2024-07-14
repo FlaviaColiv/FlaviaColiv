@@ -50,3 +50,6 @@ jobs:
           commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+  # referencia do código: https://github.com/salesp07/salesp07/blob/main/.github/workflows/main.yml
