@@ -13,7 +13,6 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=50:FFF0F5,50:BF97BF&height=150&section=header&text=DESENVOLVEDORA%20FRONT-END,%20GAME%20DESIGNER%20E%20TÉCNICA%20EM%20QUÍMICA&animation=fadeIn&fontColor=FFFFFF&fontAlignY=30&fontSize=23)
 
-  
 </div>
 
 
@@ -117,11 +116,11 @@
 <div align="center" >
   <h1>Minhas Contribuições</h1>
   <a href="https://github.com/FlaviaColiv">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FlaviaColiv&show_icons=true&theme=transparent"/></a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FlaviaColiv&show_icons=true&theme=transparent&rank_icon=percentile"/></a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent" target="_blank"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent"/></a>
   
   ![](https://raw.githubusercontent.com/FlaviaColiv/FlaviaColiv/main/profile-3d-contrib/wakatime_weekly_language_stats.svg)
- 
+
 </div>
 
 <div align="center">  
