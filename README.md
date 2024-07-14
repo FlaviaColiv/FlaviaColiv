@@ -3,9 +3,9 @@
 
 <br>
 
-<h1 align="center">
+<div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&color=BF97BF&lines=Olá!+👋+;+Sou+Flávia+Oliveira!;" />
-</h1>
+</div>
 
 <div align="center">
 
@@ -16,7 +16,7 @@
   
 </div>
 
-<h2 align="center"> Retornando após recuperação de saúde!!! 
+<h4 align="center"> Retornando após recuperação de saúde!!! 
 <h5 align="center">  jul-2024
 
   <br><br>
