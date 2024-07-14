@@ -120,6 +120,10 @@
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent" target="_blank"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent"/></a>
   
   ![](https://raw.githubusercontent.com/FlaviaColiv/FlaviaColiv/main/profile-3d-contrib/wakatime_weekly_language_stats.svg)
+
+  [![FlaviaColiv's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FlaviaColiv)](https://github.com/anuraghazra/github-readme-stats)
+
+  
 </div>
 
 <div align="center">  
