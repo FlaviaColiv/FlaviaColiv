@@ -75,7 +75,7 @@
 </div>
 
 <div align="center">
-<h1>Projetos</h1> 
+<h2>Projetos</h2> 
 
 <br>
 <table width="1800" align="center">
@@ -93,7 +93,7 @@
 <br><br>
 </div>
 
-<h1 align="center">Formações</h1> 
+<h2 align="center">Formações</h2> 
 
 <br>
 
@@ -114,7 +114,7 @@
 <br><br>
 
 <div align="center" >
-  <h1>Minhas Contribuições</h1>
+  <h2>Minhas Contribuições</h2>
   <a href="https://github.com/FlaviaColiv">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FlaviaColiv&show_icons=true&theme=transparent&rank_icon=percentile"/></a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent" target="_blank"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent"/></a>
