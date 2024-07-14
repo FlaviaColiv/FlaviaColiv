@@ -66,7 +66,7 @@
   <br>
   <br>
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,typescript,cs,unity,figma,blender,git,github,php,mysql,autocad,notion,vscode&perline=9&theme=light)](https://github.com/flaviacoliv)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,typescript,cs,unity,figma,blender,git,github,php,mysql,autocad,notion,vscode&perline=18&theme=light)](https://github.com/flaviacoliv)
 
   <br>
   <br>
