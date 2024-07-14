@@ -16,8 +16,11 @@
   
 </div>
 
-<h4 align="center"> Retornando após recuperação de saúde!!! 
-<h5 align="center">  jul-2024
+
+> [!IMPORTANT]
+> Retornando após recuperação de saúde!!! 
+
+<h6 align="left">  jul-2024
 
   <br><br>
 
@@ -65,7 +68,7 @@
 
   <br>
   <br>
-  
+    
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,typescript,cs,unity,figma,blender,git,github,php,mysql,autocad,notion,vscode&perline=18&theme=light)](https://github.com/flaviacoliv)
 
   <br>
