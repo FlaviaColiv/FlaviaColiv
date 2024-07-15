@@ -62,7 +62,7 @@
 </body>
 
 <div align="center">
-<h2>Linguagens e Ferramentas</h2> 
+<h1>Linguagens e Ferramentas</h1> 
 
   <br>
   <br>
@@ -74,7 +74,7 @@
 </div>
 
 <div align="center">
-<h2>Projetos</h2> 
+<h1>Projetos</h1> 
 
 <br>
 <table width="1800" align="center">
@@ -120,8 +120,6 @@
     
  [![FlaviaColiv's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FlaviaColiv&show_icons=true&title_color=BF97BF&text_color=725a72&theme=transparent)](https://wakatime.com/@FlaviaColiv)
 
-  
-  ![](https://raw.githubusercontent.com/FlaviaColiv/FlaviaColiv/main/profile-3d-contrib/wakatime_weekly_language_stats.svg)
 
 </div>
 
@@ -129,23 +127,22 @@
 <div background-color:"white" align="center" >
 <br>
 <div height="25px">
+<div align="center">
+  <h2> 🐍 Snake 🐍 </h2>
+  
+![](https://github.com/FlaviaColiv/FlaviaColiv/blob/output/github-contribution-grid-snake.svg)
+
+</div>
   
   ![3D](./profile-3d-contrib/profile-south-season-animate.svg) <!-- Site de Origem: https://github.com/yoshi389111/github-profile-3d-contrib -->
 
 
   ![](https://raw.githubusercontent.com/FlaviaColiv/FlaviaColiv/master/images/wakatime_weekly_language_stats.svg)
 
-  <br>
-<div align="center">
-  <h2> 🐍 Snake 🐍 </h2>
-  
-![](https://github.com/FlaviaColiv/FlaviaColiv/blob/output/github-contribution-grid-snake.svg)
-  
-<img src="./src/video/FlaviaColiv-2023.stl" alt="">
+<!-- <img src="./src/video/FlaviaColiv-2023.stl" alt="">
 
-<video src="./src/video/FlaviaColiv-2023.stl"></video>
+<video src="./src/video/FlaviaColiv-2023.stl"></video> -->
   
-</div>
 </div>
 </div>
 <br><br>
