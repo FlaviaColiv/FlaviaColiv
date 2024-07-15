@@ -42,14 +42,14 @@ jobs:
       - name: Show build status
         run: git status
 
-      - name: Push new files to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-          commit_message: Update snake animations
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # - name: Push new files to the output branch
+      #   uses: crazy-max/ghaction-github-pages@v3.1.0
+      #   with:
+      #     target_branch: output
+      #     build_dir: dist
+      #     commit_message: Update snake animations
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
   # referencia do código: https://github.com/salesp07/salesp07/blob/main/.github/workflows/main.yml
