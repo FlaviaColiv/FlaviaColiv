@@ -115,10 +115,10 @@
 <div align="center" >
   <h2>Minhas Contribuições</h2>
   <a href="https://github.com/FlaviaColiv">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FlaviaColiv&show_icons=true&theme=transparent&rank_icon=percentile"/></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent" target="_blank"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent"/></a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FlaviaColiv&show_icons=true&theme=transparent&rank_icon=percentile&title_color=BF97BF&icon_color=7a4448&text_color=725a72"/></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent" target="_blank"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent&title_color=BF97BF&text_color=725a72"/></a>
     
-  [![FlaviaColiv's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=018c56ec-373b-48e7-979b-12c57ebbc250)](https://wakatime.com/@FlaviaColiv)
+  [![FlaviaColiv's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=018c56ec-373b-48e7-979b-12c57ebbc250&show_icons=true&title_color=BF97BF&text_color=725a72)](https://wakatime.com/@FlaviaColiv) [![FlaviaColiv's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FlaviaColiv&show_icons=true&title_color=BF97BF&text_color=725a72)](https://wakatime.com/@FlaviaColiv)
 
   
   ![](https://raw.githubusercontent.com/FlaviaColiv/FlaviaColiv/main/profile-3d-contrib/wakatime_weekly_language_stats.svg)
