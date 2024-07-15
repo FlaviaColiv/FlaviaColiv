@@ -37,7 +37,7 @@
 <table width="100%" align="center">
 <tr>
 <td valign="center" width="50%">
-<div align="center">
+<div align="center"> -->
 
 <p>Moon Today</p>
 
@@ -48,22 +48,18 @@
 <a href="mailto:flaviacoliv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 <a href="https://www.linkedin.com/in/flaviacoliv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-</td>
-<!--
+<!-- </td>
+
 <td valign="center" width="50%">
 <div align="center">
 <img src="./src/video/FANTASY.gif" alt="">
 </div>
 </td>
--->
 </tr>
 </table>
-
-</body>
-
+-->
 <div align="center">
 <h1>Linguagens e Ferramentas</h1> 
-
   <br>
   <br>
     
@@ -82,18 +78,15 @@
 <td valign="top" width="50%">
 <a href="https://github.com/FlaviaColiv/MulherImportanteTec" target="_blank"><img align="center" src="https://github.com/FlaviaColiv/MulherImportanteTec/blob/main/assets/images/Captura%20de%20tela%202023-11-23%20103602.png"></a> 
 </td>
-
 <td valign="top" width="50%">
   <a href="https://github.com/FlaviaColiv/Projeto-Mario-BROS--DEVQUEST" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112573582/220513101-bbee8805-16e4-473f-bb73-d93af85d639e.png"></a>
 </td>
 </tr>
 </table>
-
 <br><br>
 </div>
 
 <h2 align="center">Formações</h2> 
-
 <br>
 
 | Curso | Instituição | Status | Fim |
@@ -123,19 +116,13 @@
 
 </div>
 
-<div align="center">  
-<div background-color:"white" align="center" >
+<div align="center" height="25px">  
 <br>
-<div height="25px">
-<div align="center">
   <h2> 🐍 Snake 🐍 </h2>
   
 ![](https://github.com/FlaviaColiv/FlaviaColiv/blob/output/github-contribution-grid-snake.svg)
-
-</div>
   
   ![3D](./profile-3d-contrib/profile-south-season-animate.svg) <!-- Site de Origem: https://github.com/yoshi389111/github-profile-3d-contrib -->
-
 
   ![](https://raw.githubusercontent.com/FlaviaColiv/FlaviaColiv/master/images/wakatime_weekly_language_stats.svg)
 
@@ -144,10 +131,9 @@
 <video src="./src/video/FlaviaColiv-2023.stl"></video> -->
   
 </div>
-</div>
 <br><br>
 
-## Obrigada por visitar meu perfil!
+<h2 align="center"> Obrigada por visitar meu perfil! </h2>
 
 <div>
  
