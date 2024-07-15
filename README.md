@@ -15,7 +15,6 @@
 
 </div>
 
-
 > [!IMPORTANT]
 > Retornando após recuperação de saúde!!! 
 
@@ -155,8 +154,7 @@
 
 <div>
  
- ![Visitante](https://visitor-badge.laobi.icu/badge?page_id=FlaviaColiv.id) <a href="https://wakatime.com/@018c56ec-373b-48e7-979b-12c57ebbc250"><img src="https://wakatime.com/badge/user/018c56ec-373b-48e7-979b-12c57ebbc250.svg" alt="Total time coded since Dec 11 2023" /></a>
-
+ ![Visitante](https://visitor-badge.laobi.icu/badge?page_id=FlaviaColiv.id) [![wakatime](https://wakatime.com/badge/user/018c56ec-373b-48e7-979b-12c57ebbc250.svg)](https://wakatime.com/@018c56ec-373b-48e7-979b-12c57ebbc250)
 </div>
 
 </div>
