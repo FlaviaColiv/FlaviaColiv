@@ -111,8 +111,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FlaviaColiv&show_icons=true&theme=transparent&rank_icon=percentile&title_color=BF97BF&icon_color=7a4448&text_color=725a72"/></a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent" target="_blank"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaColiv&layout=compact&langs_count=6&theme=transparent&title_color=BF97BF&text_color=725a72"/></a>
     
- [![FlaviaColiv's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FlaviaColiv&show_icons=true&title_color=BF97BF&text_color=725a72&theme=transparent)](https://wakatime.com/@FlaviaColiv)
-
+ [![](https://github-readme-stats.vercel.app/api/wakatime?username=FlaviaColiv&show_icons=true&title_color=BF97BF&text_color=725a72&theme=transparent)](https://wakatime.com/@FlaviaColiv)
 
 </div>
 
