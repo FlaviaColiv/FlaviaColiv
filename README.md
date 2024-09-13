@@ -11,10 +11,10 @@
 
 <!--  ![header](https://capsule-render.vercel.app/api?type=waving&color=50:FFF0F5,50:BF97BF&height=300&section=header&text=Flávia%20Oliveira&fontSize=90&desc=DESENVOLVEDORA%20FRONT-END,%20GAME%20DESIGNER%20E%20TÉCNICA%20EM%20QUÍMICA&animation=fadeIn&fontColor=FFFFFF&fontAlignY=30) -->
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=50:FFF0F5,50:BF97BF&height=150&section=header&text=DESENVOLVEDORA%20FRONT-END,%20GAME%20DESIGNER%20E%20TÉCNICA%20EM%20QUÍMICA&animation=fadeIn&fontColor=FFFFFF&fontAlignY=30&fontSize=23)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=50:FFF0F5,50:BF97BF&height=150&section=header&text=DESENVOLVEDORA%20FRONT-END&animation=fadeIn&fontColor=FFFFFF&fontAlignY=30&fontSize=35)
 
 </div>
-
+<!--
 > [!IMPORTANT]
 > Retornando após recuperação de saúde!!! 
 
@@ -22,7 +22,7 @@
 
   <br><br>
 
-<!--
+
 <a href="https://flaviacoliv.github.io/PortfolioByFlavia/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/112573582/220430420-fe3f1d05-23ad-4d10-bf36-177dc044d6c4.jpeg"></a>
 <br><br>
 
@@ -46,9 +46,9 @@
 
 <a href="https://www.linkedin.com/in/flavia-oliveira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:flaviacoliv@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-<a href="https://www.linkedin.com/in/flaviacoliv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<!--<a href="https://www.linkedin.com/in/flaviacoliv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-<!-- </td>
+ </td>
 
 <td valign="center" width="50%">
 <div align="center">
@@ -92,17 +92,19 @@
 | Curso | Instituição | Status | Fim |
 |-------|-------------|-----------|----|
 |🌀 Desenvolvimento Front-End utilizando HTML, CSS, JavaScript, React | DevQuest | Andamento | - |
-|🌀 Game Design | EBAC | Andamento | - |
-|☄️ Start GameDev | CrieSeusJogos.com.br | Andamento | - |
-|🌀 Engenharia Química - 3º Semestre | UFBA | Trancada | - |
+|🌀 Engenharia Química - 3º Semestre | UFBA | Andamento | - |
 |🌟 Bootcamp Desenvolvimento de Jogos | DIO | Concluído | Dez/2023 |
 |🌟 Desenvolvimento Front-End utilizando HTML, CSS, JavaScript | WOMAKERSCODE | Concluído | Nov/2023 |
 |🌟 Programação Web - HTML, CSS, JavaScript, Banco de Dados MySQL e PHP | Prefeitura de BH | Concluído | Jan/2023 |
 |🌟 Criação de Sites | Prefeitura de BH | Concluído | Dez/2022 |
 |🌟 Técnico em Qualidade | IFSULDEMINAS | Concluído | Dez/2021 |
 |🌟 Técnico em Química | SENAI Lauro de Freitas (BA) | Concluído | Dez/2019 |
-|❄️ Licenciatura em Química - 7° Semestre | Estácio | Trancada | - |
 
+<!--
+|❄️ Licenciatura em Química - 7° Semestre | Estácio | Trancada | - |
+|🌀 Game Design | EBAC | Andamento | - |
+|☄️ Start GameDev | CrieSeusJogos.com.br | Andamento | - |
+-->
 <br><br>
 
 <div align="center" >
