@@ -92,7 +92,8 @@
 | Curso | Instituição | Status | Fim |
 |-------|-------------|-----------|----|
 |🌀 Desenvolvimento Front-End utilizando HTML, CSS, JavaScript, React | DevQuest | Andamento | - |
-|🌀 Engenharia Química - 3º Semestre | UFBA | Andamento | - |
+|🌀 Desenho e Plástica (Licenciatura) - 1º Semestre | UFBA | Andamento | - |
+|🌀 Biomedicina - 2º Semestre | UNIJORGE | Andamento | - |
 |🌟 Bootcamp Desenvolvimento de Jogos | DIO | Concluído | Dez/2023 |
 |🌟 Desenvolvimento Front-End utilizando HTML, CSS, JavaScript | WOMAKERSCODE | Concluído | Nov/2023 |
 |🌟 Programação Web - HTML, CSS, JavaScript, Banco de Dados MySQL e PHP | Prefeitura de BH | Concluído | Jan/2023 |
