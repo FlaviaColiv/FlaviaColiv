@@ -91,9 +91,9 @@
 
 | Curso | Instituição | Status | Fim |
 |-------|-------------|-----------|----|
-|🌀 Desenvolvimento Front-End utilizando HTML, CSS, JavaScript, React | DevQuest | Andamento | - |
-|🌀 Desenho e Plástica (Licenciatura) - 1º Semestre | UFBA | Andamento | - |
-|🌀 Biomedicina - 2º Semestre | UNIJORGE | Andamento | - |
+|🌀 Desenvolvimento Front-End utilizando HTML, CSS, JavaScript, React | DevQuest | 75% | - |
+|🌀 Desenho e Plástica (Licenciatura) - 1º Semestre | UFBA | 1/8 | - |
+|🌀 Biomedicina - 2º Semestre | UNIJORGE | 2/8 | - |
 |🌟 Bootcamp Desenvolvimento de Jogos | DIO | Concluído | Dez/2023 |
 |🌟 Desenvolvimento Front-End utilizando HTML, CSS, JavaScript | WOMAKERSCODE | Concluído | Nov/2023 |
 |🌟 Programação Web - HTML, CSS, JavaScript, Banco de Dados MySQL e PHP | Prefeitura de BH | Concluído | Jan/2023 |
