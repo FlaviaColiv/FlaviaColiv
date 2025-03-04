@@ -95,12 +95,12 @@
 |🌀 Desenvolvimento FrontEnd utilizando HTML, CSS, JavaScript, React | DevQuest | 85% | - |
 |🌀 Desenho e Plástica (Licenciatura) - 1º Semestre | UFBA | 1/8 | - |
 |🌀 Biomedicina - 2º Semestre | UNIJORGE | 2/8 | - |
-|🌟 Bootcamp Desenvolvimento de Jogos | DIO | Concluído | Dez/2023 |
-|🌟 Desenvolvimento Front-End utilizando HTML, CSS, JavaScript | WOMAKERSCODE | Concluído | Nov/2023 |
-|🌟 Programação Web - HTML, CSS, JavaScript, Banco de Dados MySQL e PHP | Prefeitura de BH | Concluído | Jan/2023 |
-|🌟 Criação de Sites | Prefeitura de BH | Concluído | Dez/2022 |
-|🌟 Técnico em Qualidade | IFSULDEMINAS | Concluído | Dez/2021 |
-|🌟 Técnico em Química | SENAI Lauro de Freitas (BA) | Concluído | Dez/2019 |
+|🌟 Bootcamp Desenvolvimento de Jogos | DIO | 1/1 | Dez/2023 |
+|🌟 Desenvolvimento Front-End utilizando HTML, CSS, JavaScript | WOMAKERSCODE | 1/1 | Nov/2023 |
+|🌟 Programação Web - HTML, CSS, JavaScript, Banco de Dados MySQL e PHP | Prefeitura de BH | 1/1 | Jan/2023 |
+|🌟 Criação de Sites | Prefeitura de BH | 1/1 | Dez/2022 |
+|🌟 Técnico em Qualidade | IFSULDEMINAS | 3/3 | Dez/2021 |
+|🌟 Técnico em Química | SENAI Lauro de Freitas (BA) | 4/4 | Dez/2019 |
 
 <!--
 |❄️ Licenciatura em Química - 7° Semestre | Estácio | Trancada | - |
