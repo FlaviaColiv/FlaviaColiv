@@ -92,7 +92,7 @@
 | Curso | Instituição | Status | Fim |
 |-------|-------------|-----------|----|
 |🌀 Desenvolvimento BackEnd utilizando SQL, HTTP, Node JS, PostgresQL e Docker | DevQuest | 10% | - |
-|🌀 Desenvolvimento FrontEnd utilizando HTML, CSS, JavaScript, React | DevQuest | 90% | - |
+|🌀 Desenvolvimento FrontEnd utilizando HTML, CSS, JavaScript, React | DevQuest | 95% | - |
 |🌀 Desenho e Plástica (Licenciatura) - 1º Semestre | UFBA | 1/8 | - |
 |🌀 Biomedicina - 2º Semestre | UNIJORGE | 2/8 | - |
 |🌟 Bootcamp Desenvolvimento de Jogos | DIO | 1/1 | Dez/2023 |
