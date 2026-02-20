@@ -63,7 +63,7 @@
   <br>
   <br>
     
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,typescript,cs,unity,figma,blender,git,github,php,mysql,autocad,notion,vscode&perline=18&theme=light)](https://github.com/flaviacoliv)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,typescript,c,cs,unity,figma,blender,git,github,php,mysql,autocad,notion,vscode&perline=18&theme=light)](https://github.com/flaviacoliv)
 
   <br>
   <br>
@@ -89,21 +89,23 @@
 <h2 align="center">Formações</h2> 
 <br>
 
-| Curso | Instituição | Status | Fim |
+| Curso | Instituição | Status | Formação |
 |-------|-------------|-----------|----|
+|🌀 Análise e Desenvolvimento de Sistemas - ADS - 1º Semestre | UNIJORGE | 1/5 | - |
 |🌀 Desenvolvimento BackEnd utilizando SQL, HTTP, Node JS, PostgresQL e Docker | DevQuest | 10% | - |
-|🌀 Desenho e Plástica (Licenciatura) - 1º Semestre | UFBA | 1/8 | - |
-|🌀 Biomedicina - 2º Semestre | UNIJORGE | 2/8 | - |
+|🌀 Desenho e Plástica (Licenciatura) - 2º Semestre | UFBA | 2/8 | - |
+|🌀 Técnico em Informática | IFSULDEMINAS | 2/3 | - |
 |🌟 Desenvolvimento FrontEnd utilizando HTML, CSS, JavaScript, React | DevQuest | 100% | Mar/2025 |
 |🌟 Bootcamp Desenvolvimento de Jogos | DIO | 100% | Dez/2023 |
 |🌟 Desenvolvimento Front-End utilizando HTML, CSS, JavaScript | WOMAKERSCODE | 100% | Nov/2023 |
 |🌟 Programação Web - HTML, CSS, JavaScript, Banco de Dados MySQL e PHP | Prefeitura de BH | 100% | Jan/2023 |
 |🌟 Criação de Sites | Prefeitura de BH | 100% | Dez/2022 |
-|🌟 Técnico em Qualidade | IFSULDEMINAS | 3/3 | Dez/2021 |
-|🌟 Técnico em Química | SENAI Lauro de Freitas (BA) | 4/4 | Dez/2019 |
+|🌟 Técnico em Qualidade | IFSULDEMINAS | 100% | Dez/2021 |
+|🌟 Técnico em Química | SENAI Lauro de Freitas (BA) | 100% | Dez/2019 |
 
 <!--
-|❄️ Licenciatura em Química - 7° Semestre | Estácio | Trancada | - |
+|🌀 Biomedicina - 2º Semestre | UNIJORGE | 2/8 - Trancada | - |
+|❄️ Licenciatura em Química - 7° Semestre | Estácio | 7/8 - Trancada | - |
 |🌀 Game Design | EBAC | Andamento | - |
 |☄️ Start GameDev | CrieSeusJogos.com.br | Andamento | - |
 -->
